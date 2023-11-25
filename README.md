@@ -1,4 +1,5 @@
-![image](https://github.com/jh31barbosa/jh31barbosa/assets/99149994/c3f7a9c8-2eeb-4390-a1c8-23deec243e04)![django](https://github.com/jh31barbosa/jh31barbosa/assets/99149994/e04bcaa0-4ab8-45d1-bade-cf5970e64d01)
+![image](https://github.com/jh31barbosa/jh31barbosa/assets/99149994/c3f7a9c8-2eeb-4390-a1c8-23deec243e04)!![django (1)](https://github.com/jh31barbosa/jh31barbosa/assets/99149994/febcdd0f-105d-4642-a3e6-3dac136cb065)
+
 
 - 👋 Hi, I’m Jose Henrique
 - 👀 I’m a enthusiastic of devops and software development
