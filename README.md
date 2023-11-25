@@ -1,4 +1,4 @@
-<a href="https://iconscout.com/icons/grafana" class="text-underline font-size-sm" target="_blank">Grafana</a> by <a href="https://iconscout.com/contributors/icon-54" class="text-underline font-size-sm">Icon 54</a> on <a href="https://iconscout.com" class="text-underline font-size-sm">IconScout</a>
+![image](https://github.com/jh31barbosa/jh31barbosa/assets/99149994/c3f7a9c8-2eeb-4390-a1c8-23deec243e04)
 
 - 👋 Hi, I’m Jose Henrique
 - 👀 I’m a enthusiastic of devops and software development
