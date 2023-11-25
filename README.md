@@ -1,4 +1,5 @@
-<img loading="lazy">
+![image](https://github.com/jh31barbosa/jh31barbosa/assets/99149994/6f97775f-af3d-4855-9260-95703986c7df)
+
 - 👋 Hi, I’m Jose Henrique
 - 👀 I’m a enthusiastic of devops and software development
 - 🌱 I’m currently learning devops technologies like aws,terraform,docker,kubernetes,grafana,prometheus and linux.
