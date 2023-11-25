@@ -1,3 +1,4 @@
+<img loading="lazy">
 - 👋 Hi, I’m Jose Henrique
 - 👀 I’m a enthusiastic of devops and software development
 - 🌱 I’m currently learning devops technologies like aws,terraform,docker,kubernetes,grafana,prometheus and linux.
