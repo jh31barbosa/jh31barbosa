@@ -1,4 +1,5 @@
-![image](https://github.com/jh31barbosa/jh31barbosa/assets/99149994/c3f7a9c8-2eeb-4390-a1c8-23deec243e04)![django (1)](https://github.com/jh31barbosa/jh31barbosa/assets/99149994/febcdd0f-105d-4642-a3e6-3dac136cb065)![python](https://github.com/jh31barbosa/jh31barbosa/assets/99149994/70d0de53-1334-42e7-95fb-0707b7e37a69)![flask](https://github.com/jh31barbosa/jh31barbosa/assets/99149994/18082128-9ee9-4c3d-b493-fa80483c0f35)
+[django (1)](https://github.com/jh31barbosa/jh31barbosa/assets/99149994/febcdd0f-105d-4642-a3e6-3dac136cb065)![python](https://github.com/jh31barbosa/jh31barbosa/assets/99149994/70d0de53-1334-42e7-95fb-0707b7e37a69)![flask](https://github.com/jh31barbosa/jh31barbosa/assets/99149994/18082128-9ee9-4c3d-b493-fa80483c0f35)![grafana (1)](https://github.com/jh31barbosa/jh31barbosa/assets/99149994/31d02c0f-9e32-426e-867a-03f60665d960)
+
 
 
 
