@@ -1,4 +1,4 @@
-![image](https://github.com/jh31barbosa/jh31barbosa/assets/99149994/6f97775f-af3d-4855-9260-95703986c7df)
+![image](https://github.com/jh31barbosa/jh31barbosa/assets/99149994/a88b609e-ffdd-45e6-878c-4c50aa5a068c)
 
 - 👋 Hi, I’m Jose Henrique
 - 👀 I’m a enthusiastic of devops and software development
