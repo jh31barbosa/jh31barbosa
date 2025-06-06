@@ -12,7 +12,7 @@
 - 👋 Hi, I’m Jose Henrique
 - 🔧 Current focus: Backend Development & DevOps
 - 🏗️ Building: Scalable web applications with Python
-- 🌐 Deployed projects: [link to portfolio]
+- 🌐 Important projects: [https://github.com/jh31barbosa/Deep_Search_AI],[https://github.com/jh31barbosa/customer-management-system]
 - 📊 Monitoring: Prometheus, Grafana enthusiast
 - 📫 How to reach me jh29.dev@gmail.com or https://www.linkedin.com/in/jh29-dev/
 
