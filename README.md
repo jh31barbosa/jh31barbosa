@@ -1,22 +1,81 @@
-![javascript](https://github.com/jh31barbosa/jh31barbosa/assets/99149994/3e665098-c8a6-435f-830d-be8155414805)![python](https://github.com/jh31barbosa/jh31barbosa/assets/99149994/70d0de53-1334-42e7-95fb-0707b7e37a69)![django (1)](https://github.com/jh31barbosa/jh31barbosa/assets/99149994/febcdd0f-105d-4642-a3e6-3dac136cb065)
-![flask](https://github.com/jh31barbosa/jh31barbosa/assets/99149994/18082128-9ee9-4c3d-b493-fa80483c0f35)![postgresql](https://github.com/jh31barbosa/jh31barbosa/assets/99149994/cd25cbcb-0bf8-4950-bb44-778eb8db6185)
-![grafana (3)](https://github.com/jh31barbosa/jh31barbosa/assets/99149994/1ed8aa53-51d1-4cf5-8b09-4dc64b0bb909)![prometheus (1)](https://github.com/jh31barbosa/jh31barbosa/assets/99149994/e013efb4-6f9f-4f2e-8b15-437b0693702d)![docker](https://github.com/jh31barbosa/jh31barbosa/assets/99149994/e9646e81-c95a-41d6-9fa9-10cb3ac5d023)![amazon-aws](https://github.com/jh31barbosa/jh31barbosa/assets/99149994/745886d9-3940-4968-b583-962bcc0d51dc)
+# 👋 Hello, I'm José Henrique
 
+## 🚀 Backend Developer | Cloud Engineer | LLM Enthusiast
 
+Backend developer passionate about building scalable and intelligent solutions, combining robust development with cloud technologies and artificial intelligence.
 
+### 🎯 Current Focus
+- **Backend Development** with Python (Django/Flask)
+- **Cloud Computing** (AWS)
+- **Large Language Models** and AI Integration
+- **Containerization** and **Orchestration**
 
+---
 
+## 🛠️ Tech Stack
 
+### Backend Development
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-- 👋 Hi, I’m Jose Henrique
-- 🔧 Current focus: Backend Development & DevOps
-- 🏗️ Building: Scalable web applications with Python
-- 🌐 Important projects: [Chat de IA_](https://github.com/jh31barbosa/Deep_Search_AI)|[CMS app](https://github.com/jh31barbosa/customer-management-system)
-- 📊 Monitoring: Prometheus, Grafana enthusiast
-- 📫 How to reach me jh29.dev@gmail.com or https://www.linkedin.com/in/jh29-dev/
+### LLM & AI
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Langchain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logoColor=black)
 
-<!---
-jh31barbosa/jh31barbosa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jh31barbosa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jh31barbosa&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+### 🔥 Backend & Cloud
+- **[Django Microservices API](link)** - Robust API with microservices architecture
+- **[Flask ML Pipeline](link)** - Production ML pipeline with Flask and AWS
+- **[AWS Infrastructure](link)** - Infrastructure as Code with Terraform
+
+### 🤖 LLM & AI Projects
+- **[Intelligent ChatBot](link)** - Bot with LangChain and OpenAI API
+- **[Document AI Processor](link)** - Intelligent document processing
+- **[RAG System](link)** - Retrieval-Augmented Generation system
+
+---
+
+## 🎓 Certifications & Learning
+- 🎯 **AWS Cloud Practitioner**
+- 🎯 **AWS Developer Associate** (in progress)
+- 📚 **LLM and LangChaing Learning**
+- 📚 **Linux**
+- 📚 **Docker**
+- 🔄 **DevOps & CI/CD Practices**
+
+---
+
+## 📈 Contributions
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jh31barbosa&theme=react-dark)
+
+---
+
+## 🤝 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jh29-dev/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jh29.dev@gmail.com)
+
+> *"Building the future with intelligent code and scalable infrastructure"*
