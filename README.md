@@ -51,7 +51,7 @@ Backend developer passionate about building scalable and intelligent solutions, 
 - **[AWS Infrastructure](link)** - Infrastructure as Code with Terraform
 
 ### 🤖 LLM & AI Projects
-- **[Intelligent ChatBot](link)** - Bot with LangChain and OpenAI API
+- **[Intelligent ChatBot](https://github.com/jh31barbosa/jh31barbosa/deep_search_ai)** - Bot with gemini API integration
 - **[MediCare](https://github.com/jh31barbosa/MediCare)** - Medical System with with LLM chatbot
 - **[RAG System](link)** - Retrieval-Augmented Generation system
 
