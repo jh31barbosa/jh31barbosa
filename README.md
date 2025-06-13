@@ -52,7 +52,7 @@ Backend developer passionate about building scalable and intelligent solutions, 
 
 ### 🤖 LLM & AI Projects
 - **[Intelligent ChatBot](link)** - Bot with LangChain and OpenAI API
-- **[[Document AI Processor](https://github.com/jh31barbosa/MediCare)](link)** - Intelligent document processing
+- **[MediCare](https://github.com/jh31barbosa/MediCare)** - Medical System with with LLM chatbot
 - **[RAG System](link)** - Retrieval-Augmented Generation system
 
 ---
